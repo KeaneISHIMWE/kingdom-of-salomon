@@ -1,2 +1,3 @@
-# group8
-This is group work
+# kingdom of salom school
+this is a schoolwebsite project
+
